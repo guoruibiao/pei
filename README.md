@@ -8,7 +8,7 @@ The `installer.py` can be the entrance. You just need to change the `extensionna
 And then use the following command.
 
 ```
-python installer.py
+python pei.py
 ```
 
 Lastly, enjoy it!
